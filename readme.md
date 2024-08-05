@@ -25,8 +25,6 @@ No atual cenário financeiro, a diminuição das taxas de juros tem gerado um no
 
 ## 🎯 **Objetivo**
 
-Explorar a analise dos dados, destacando como isso ajuda a melhorar a compreensão dos fenômenos, apoiar pesquisas e tomar decisões acertadas.
-
 O objetivo da análise é **identificar o perfil de clientes com risco de inadimplência**, montar uma pontuação de crédito a través da análise de dados e avaliar o risco relativo, possibilitando assim, classificar os clientes e futuros clientes em diferentes categorias de risco com base na sua probabilidade de inadimplência. Esta classificação permitirá ao banco tomar decisões informadas sobre a quem conceder crédito, reduzindo assim o risco de empréstimos não reembolsáveis. Além disso, a integração destas métricas fortalecerá a capacidade do modelo de identificar riscos, contribuindo para a solidez financeira e a eficiência operacional do Banco.
 
 Esse objetivo é alcançado por meio dos seguintes subobjetivos:
