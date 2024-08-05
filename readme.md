@@ -7,6 +7,7 @@
   - [**Equipe**](#equipe)
   - [**Ficha Técnica**](#ficha-tecnica)
   - [**Fontes de dados**](#fonte-de-dados)
+  - [**Tabelas utilizadas na análise**](#tabelas-utilizadas-na-análise)
   - [**Ferramentas e Tecnologias**](#ferramentas-e-tecnologias)
   - [**Processamento e análises**](#rocessamento-e-análises)
   - [**Resultados e Conclusões**](#Resultados-e-Conclusões) 
@@ -57,6 +58,17 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 - Principal fonte de dados: https://drive.google.com/drive/u/0/folders/1AoQtdi6RHKqSdiy8E-pwExh8GXbJIVeE
 - Manipulação de dados e Regressão logística em Python(Google Colab): https://colab.research.google.com/drive/1L53FX-L6vwMkOKRnWc7B6R8BKBYE2507#scrollTo=C0U3jEBL1utA
 - Link ao relatório: Em andamento...
+
+---
+
+## 💻 **Tabelas utilizadas na análise**
+user_info: dados gerais dos clientes
+
+loans_outstanding: dados referente ao tipo de empréstimos e quantidade
+
+loans_detail: dados sobre o número de atrasos de pagamento de empréstimos, uso de linhas de crédito e relação ao seu limit e taxa de endividamento
+
+default: dados dos clientes inadimplentes e adimplentes
 
 ---
 
