@@ -62,32 +62,33 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ---
 
 ## 💻 **Tabelas utilizadas na análise**
-user_info: dados gerais dos clientes
+- user_info: dados gerais dos clientes
 
-loans_outstanding: dados referente ao tipo de empréstimos e quantidade
+- loans_outstanding: dados referente ao tipo de empréstimos e quantidade
 
-loans_detail: dados sobre o número de atrasos de pagamento de empréstimos, uso de linhas de crédito e relação ao seu limit e taxa de endividamento
+- loans_detail: dados sobre o número de atrasos de pagamento de empréstimos, uso de linhas de crédito e relação ao seu limit e taxa de endividamento
 
-default: dados dos clientes inadimplentes e adimplentes
+- default: dados dos clientes inadimplentes e adimplentes
 
 ---
 
 ## 🔎 **Processamento e análises**
 Várias etapas foram seguidas para preparar os dados para análise:
 
-- Eliminação de valores nulos para manter a qualidade, a precisão e a confiabilidade da análise, permitindo resultados mais robustos e acionáveis.
-- Verificação e remoção de valores duplicados. É necessário investigar e corrigir valores de dados duplicados para manter a integridade dos dados.
-- Decidiu-se remover a coluna 'in_shazam_charts' porque é um aplicativo que identifica músicas e foi considerado fora do escopo da análise.
-- Decidiu-se remover as colunas 'key' e 'mode' porque elas têm muitos registros com valores nulos e consideramos que elas não fornecem muitas informações relevantes para a análise do estudo.
-- Variáveis como 'data_de_lancamento', 'total_participation_inn_playlist', 'count_songs' foram criadas para melhorar a compreensibilidade e a utilidade dos dados. 
-- Caracteres especiais foram identificados nas variáveis "track_name" e "artist_name" para melhorar a qualidade e a utilidade dos dados e, assim, melhorar a precisão e a eficiência da análise.
-- Para as variáveis que descrevem as características das músicas, elas foram categorizadas em: baixa e alta, para que fosse possível aplicar testes estatísticos.
-- Salvamos os dados limpos em um novo arquivo pronto para a análise descritiva, inferencial e de regressão linear.
-Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis e bem preparados para análise.
+- Manipulação e limpeza dos dados: Utilizando o processo de ETL (Extract, Transform, Load) no BigQuery, realizei a limpeza e manipulação dos dados. Removi valores nulos, duplicados e inconsistências, além de calcular os quartis. Criei tabelas auxiliares, transformei os dados, e segmentei os clientes com base no risco relativo. As variáveis foram convertidas em dummies para a construção da matriz de confusão e para a realização de regressão logística.
+
+- Visualização Interativa da Análise: Utilizamos o Looker Studio para criar gráficos e tabelas interativas que facilitam a visualização e compreensão da análise realizada.
+
+- Modelo de Score de Crédito: foi realizada uma avaliação do modelo utilizando a matriz de confusão para análise de desempenho.
+
+- Regressão Logística: Foi realizada uma análise preditiva do risco de inadimplência utilizando regressão logística, uma técnica robusta amplamente reconhecida por sua capacidade de modelar e prever comportamentos de risco com base em variáveis significativas.
+
+
 
 ---
 
 ## 💡 **Resultados e Conclusões**
+A partir da análise realizada neste projeto, usando análise exploratória, modelo de classificação e regressão logística, analisei as características das músicas mais ouvidas no Spotify durante o ano de 2023. Uma série de hipóteses propostas pela gravadora foi validada para identificar as tendências que contribuem para o sucesso de uma música, com o objetivo de lançar um novo artista de acordo com as características do mercado.
 
 
 
