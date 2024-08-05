@@ -54,9 +54,9 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ---
 
 ## 📈 **Fontes de dados**
-- Principal fonte de dados: https://drive.google.com/drive/folders/1HJXQ14woPBi5YhKOiP1mkXgMl6L8lfLs?usp=sharing
-- Manipulação de dados e testes estatísticos em Python(Google Colab): https://colab.research.google.com/drive/1yqDrSCxV1pLNdZte-QVcOxdOQywfsb8J?usp=sharing
-- Link ao relatório: https://app.powerbi.com/groups/me/reports/53f8f0a7-d24e-4bdd-bc3f-a6b74f28587a/ReportSectionba6084d51d0cd5e70536?experience=power-bi&clientSideAuth=0
+- Principal fonte de dados: https://drive.google.com/drive/u/0/folders/1AoQtdi6RHKqSdiy8E-pwExh8GXbJIVeE
+- Manipulação de dados e Regressão logística em Python(Google Colab): https://colab.research.google.com/drive/1L53FX-L6vwMkOKRnWc7B6R8BKBYE2507#scrollTo=C0U3jEBL1utA
+- Link ao relatório: Em andamento...
 
 ---
 
