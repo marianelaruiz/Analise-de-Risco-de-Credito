@@ -97,4 +97,8 @@ Seguindo essas etapas, conseguimos garantir que nossos dados fossem confiáveis 
 
 ## **Referências**
 - https://www.scielo.br/j/rsocp/a/RWjPthhKDYbFQYydbDr3MgH/?lang=pt
+- https://www.blog.psicometriaonline.com.br/o-que-e-multicolinearidade/?ltk_gcm=17931339741&ltk_gag=138457321421&ltk_gac=623286237355&ltk_gne=g&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqnca8bca6xuEVw_03ek0m2b28jQ5IMGwU2tqEQ7079Fa7vHc-69XgXYaAkGNEALw_wcB
+- https://med.estrategia.com/portal/conteudos-gratis/resumo-de-medidas-de-associacao-risco-relativo-razao-de-prevalencia-e-mais/
+- https://bdm.unb.br/bitstream/10483/14087/1/2015_DianaOberdaCarneiroMarques.pdf
+- https://www.teses.usp.br/teses/disponiveis/45/45133/tde-28122004-224257/publico/diss1GP.pdf
 
