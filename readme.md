@@ -57,7 +57,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ## 📈 **Fontes de dados**
 - Principal fonte de dados: https://drive.google.com/drive/u/0/folders/1AoQtdi6RHKqSdiy8E-pwExh8GXbJIVeE
 - Manipulação de dados e Regressão logística em Python(Google Colab): https://colab.research.google.com/drive/1L53FX-L6vwMkOKRnWc7B6R8BKBYE2507#scrollTo=C0U3jEBL1utA
-- Link ao relatório: Em andamento...
+- Link ao relatório: https://lookerstudio.google.com/reporting/8933e74d-4411-42a4-9584-bad1e9d1fa5e
 
 ---
 
@@ -101,6 +101,7 @@ A partir da análise realizada neste projeto, usando análise exploratória, mod
 ---
 
 ## 📊 **Painel de controle (dashboard) no Looker Studio**
+https://lookerstudio.google.com/reporting/8933e74d-4411-42a4-9584-bad1e9d1fa5e
 
 
 
