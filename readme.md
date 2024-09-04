@@ -129,9 +129,7 @@ A hipótese foi **confirmada** e as recomendações são:
 - **Segmentação e Ofertas Personalizadas:** Desenvolver produtos financeiros específicos e oferecer suporte adicional para clientes nessa situação.
 - **Monitoramento e Controle:** Implementar um sistema de alerta para monitorar atrasos de pagamento e oferecer intervenções preventivas.
 
-
-
-💡 **Recomendações** 💡
+<!-- 💡 **Recomendações** 💡 -->
 
 
 ---
