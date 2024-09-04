@@ -90,6 +90,45 @@ Várias etapas foram seguidas para preparar os dados para análise:
 ## 💡 **Resultados e Conclusões**
 A partir da análise realizada neste projeto, usando análise exploratória, modelo de classificação e regressão logística, analisei as características das músicas mais ouvidas no Spotify durante o ano de 2023. Uma série de hipóteses propostas pela gravadora foi validada para identificar as tendências que contribuem para o sucesso de uma música, com o objetivo de lançar um novo artista de acordo com as características do mercado.
 
+## Hipótese 1: Os mais jovens correm um risco maior de Inadimplência:
+
+- Clientes mais jovens (21 a 29 anos) e também aqueles entre 30 e 39 anos apresentam maior risco de inadimplência.
+- Possíveis causas incluem o início de carreira, instabilidade financeira e falta de experiência em gestão financeira.
+
+A hipótese foi **confirmada** e as recomendações são:
+
+💡 Recomendações para esses clientes:
+
+- **Mitigação de Riscos:** Implementar políticas para reduzir riscos entre clientes mais jovens, como limites de crédito mais baixos e processos de avaliação mais rigorosos.
+- **Produtos Personalizados:** Desenvolver produtos financeiros específicos com condições mais adequadas para essa faixa etária.
+- **Reestruturação de Dívidas:** Oferecer planos de renegociação de dívidas para clientes jovens inadimplentes.
+- **Incentivos para Pagamento em Dia:** Oferecer benefícios para clientes jovens que mantêm pagamentos em dia.
+
+## Hipótese 2: Clientes com mais empréstimos ativos têm um maior risco:
+
+- Clientes com mais de 9 empréstimos apresentam um risco menor de inadimplência, o que contraria a hipótese inicial de maior risco com mais empréstimos.
+- Possíveis causas incluem uma boa gestão financeira que permite o pagamento dos empréstimos.
+
+A hipótese foi **refutada** e as recomendações são:
+
+💡 Recomendações para esses clientes:
+
+- **Análise de Crédito Mais Flexível:** Reavaliar critérios de crédito para clientes com múltiplos empréstimos.
+- **Monitoramento e Suporte:** Fornecer suporte financeiro proativo para clientes com menos empréstimos.
+
+## Hipótese 3: Clientes com mais de 90 dias de atraso têm maior risco:
+
+- Atrasos superiores a 90 dias são fortes indicadores de inadimplência futura.
+- Possíveis causas incluem dificuldades financeiras e problemas de gestão financeira que indicam maior probabilidade de inadimplência.
+
+A hipótese foi **confirmada** e as recomendações são:
+
+💡 Recomendações para esses clientes:
+
+- **Programas de Recuperação de Crédito:** Criar programas para renegociação e recuperação para clientes com atrasos superiores a 90 dias.
+- **Segmentação e Ofertas Personalizadas:** Desenvolver produtos financeiros específicos e oferecer suporte adicional para clientes nessa situação.
+- **Monitoramento e Controle:** Implementar um sistema de alerta para monitorar atrasos de pagamento e oferecer intervenções preventivas.
+
 
 
 💡 **Recomendações** 💡
