@@ -139,8 +139,9 @@ A hipótese foi **confirmada** e as recomendações são:
 
 ## 📊 **Painel de controle (dashboard) no Looker Studio**
 https://lookerstudio.google.com/reporting/8933e74d-4411-42a4-9584-bad1e9d1fa5e
-<img src="img/dashboard.png" alt="Alt text" width="800" height="500">
-
+<img src="img/dashboard.png" alt="Alt text" width="800" height="500"> <br />
+<img src="img/dashboard2.png" alt="Alt text" width="800" height="500"> <br />
+<img src="img/dashboard3.png" alt="Alt text" width="800" height="500"> 
 
 
 
