@@ -88,7 +88,7 @@ Várias etapas foram seguidas para preparar os dados para análise:
 ---
 
 ## 💡 **Resultados e Conclusões**
-A partir da análise realizada neste projeto, usando análise exploratória, modelo de classificação e regressão logística, analisei as características das músicas mais ouvidas no Spotify durante o ano de 2023. Uma série de hipóteses propostas pela gravadora foi validada para identificar as tendências que contribuem para o sucesso de uma música, com o objetivo de lançar um novo artista de acordo com as características do mercado.
+A partir da análise realizada neste projeto, usando análise exploratória, modelo de classificação e regressão logística, o banco Super Cajá busca identificar com maior facilidade clientes que podem apresentar maior risco de inadimplência e tomar decisões mais rápidas para a concessão de créditos.
 
 ## Hipótese 1: Os mais jovens correm um risco maior de Inadimplência:
 
