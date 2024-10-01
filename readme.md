@@ -57,7 +57,7 @@ Esse objetivo é alcançado por meio dos seguintes subobjetivos:
 ## 📈 **Fontes de dados**
 - Principal fonte de dados: https://drive.google.com/drive/u/0/folders/1AoQtdi6RHKqSdiy8E-pwExh8GXbJIVeE
 - Manipulação de dados e Regressão logística em Python(Google Colab): https://colab.research.google.com/drive/1L53FX-L6vwMkOKRnWc7B6R8BKBYE2507#scrollTo=C0U3jEBL1utA
-- Link ao relatório: https://lookerstudio.google.com/reporting/8933e74d-4411-42a4-9584-bad1e9d1fa5e
+- Link ao relatório: https://lookerstudio.google.com/u/0/reporting/5417083a-a220-4c63-b7f3-ff31120a687d/page/gG67D
 
 ---
 
@@ -138,7 +138,7 @@ A hipótese foi **confirmada** e as recomendações são:
 ---
 
 ## 📊 **Painel de controle (dashboard) no Looker Studio**
-https://lookerstudio.google.com/reporting/8933e74d-4411-42a4-9584-bad1e9d1fa5e
+https://lookerstudio.google.com/u/0/reporting/5417083a-a220-4c63-b7f3-ff31120a687d/page/gG67D
 <img src="img/dashboard.png" alt="Alt text" width="800" height="500"> <br />
 <img src="img/dashboard2.png" alt="Alt text" width="800" height="500"> <br />
 <img src="img/dashboard3.png" alt="Alt text" width="800" height="500"> 
