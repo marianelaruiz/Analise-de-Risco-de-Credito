@@ -92,7 +92,7 @@ A partir da análise realizada neste projeto, usando análise exploratória, mod
 
 ## Hipótese 1: Os mais jovens correm um risco maior de Inadimplência:
 
-- Clientes mais jovens (21 a 29 anos) e também aqueles entre 30 e 39 anos apresentam maior risco de inadimplência.
+- Clientes mais jovens (21 a 41 anos) e também aqueles entre 42 e 52 anos apresentam maior risco de inadimplência.
 - Possíveis causas incluem o início de carreira, instabilidade financeira e falta de experiência em gestão financeira.
 
 A hipótese foi **confirmada** e as recomendações são:
@@ -106,7 +106,7 @@ A hipótese foi **confirmada** e as recomendações são:
 
 ## Hipótese 2: Clientes com mais empréstimos ativos têm um maior risco:
 
-- Clientes com mais de 9 empréstimos apresentam um risco menor de inadimplência, o que contraria a hipótese inicial de maior risco com mais empréstimos.
+- Clientes com mais de 11 empréstimos apresentam um risco menor de inadimplência, o que contraria a hipótese inicial de maior risco com mais empréstimos.
 - Possíveis causas incluem uma boa gestão financeira que permite o pagamento dos empréstimos.
 
 A hipótese foi **refutada** e as recomendações são:
